@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Manoharmanu16.
+- 👋 Hi, I’m @Sai Manohar Damarla.
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning the basics of c programming.
 - 💞️ I’m looking to collaborate on learning c programing.
